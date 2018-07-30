@@ -1,0 +1,25 @@
+{
+  "name": "camp9",
+  "version": "1.0.0",
+  "description": "shoppingmall",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taylor-kang/nodejs-shoppingmall.git"
+  },
+  "keywords": [
+    "쇼핑몰"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taylor-kang/nodejs-shoppingmall/issues"
+  },
+  "homepage": "https://github.com/taylor-kang/nodejs-shoppingmall#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
